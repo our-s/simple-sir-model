@@ -1,6 +1,6 @@
 # simple-sir-model
 
-**Programming Exercise 5:** Simple SIR model - Contágio
+**Programming Exercise 5:** Simple SIR model - Contágio (Cenário 3) 
 
 * In your Linux console, you should run the following command.
 
