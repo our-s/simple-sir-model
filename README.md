@@ -11,6 +11,8 @@
 * References:
   * Robert Sedgewick and Kevin Wayne. *Algorithms*. Addison-Wesley Professional, 4th edition, 2011.
   * [random — Generate pseudo-random numbers](https://docs.python.org/3/library/random.html)
+  * [Matplotlib • Stacked bar chart](https://matplotlib.org/gallery/lines_bars_and_markers/bar_stacked.html?highlight=stacked%20bar%20chart)
+  * [Matplotlib • Specifying Colors](https://matplotlib.org/tutorials/colors/colors.html#sphx-glr-tutorials-colors-colors-py)
   <p>&nbsp;</p>
 * More:
   * [SIR model](https://mathworld.wolfram.com/SIRModel.html)
